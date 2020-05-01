@@ -1,0 +1,2 @@
+# dependent
+my dear project
